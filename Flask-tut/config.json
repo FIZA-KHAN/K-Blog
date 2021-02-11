@@ -1,0 +1,22 @@
+{
+    "parameters": 
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/kblogs",
+        "prod_uri": "mysql://root:@localhost/kblogs",
+        "fb_url": "https://facebook.com/Kblogs",
+        "tw_url": "https://twitter.com/Kblogs",
+        "git_url": "https://github.com/Kblogs",
+        "blog_name": "K-Blog",
+        "gmail_user": "",
+        "gmail_password": "",
+        "about_text": "Will add soon",
+        "no_of_posts": 2,
+        "login_image": "login.svg",
+        "admin_user": "K-blogF",
+        "admin_password": "fiza",
+        "upload_location": "C:\\Fiza\\VS_codes\\Flask-tut\\static"
+
+    }
+    
+}
